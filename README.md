@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithun2509" alt="mithun2509" /> </p>
 
-- 🔭 I’m currently working on **Revitalized Streelight**
+- 🔭 I’m currently working on **Sign Language Recognition using Convolution Neural Networks**
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
 
-- 👯 I'm a software developer in **Tracking of Hot Metal Transportation Vehicle**
+- 👯 Recruited as Project Engineer in **Soliton Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mithun2509](https://github.com/Mithun2509)
 
